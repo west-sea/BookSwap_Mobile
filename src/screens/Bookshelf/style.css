@@ -1,0 +1,148 @@
+.bookshelf {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.bookshelf .div-3 {
+  background-color: #ffffff;
+  height: 640px;
+  position: relative;
+  width: 360px;
+}
+
+.bookshelf .frame-16 {
+  align-items: center;
+  display: flex;
+  height: 94px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 8px;
+  position: absolute;
+  top: 546px;
+  width: 360px;
+}
+
+.bookshelf .frame-17 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 80px;
+}
+
+.bookshelf .group-5 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.bookshelf .rectangle-wrapper {
+  background-image: url(../../../static/img/rectangle-2-4.svg);
+  background-size: 100% 100%;
+  border: 2px solid;
+  border-color: #000000;
+  height: 34px;
+  left: -3px;
+  position: relative;
+  top: -3px;
+  width: 34px;
+}
+
+.bookshelf .rectangle-4 {
+  height: 34px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 34px;
+}
+
+.bookshelf .text-wrapper-13 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bookshelf .text-wrapper-14 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.bookshelf .frame-18 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  left: 20px;
+  position: absolute;
+  top: 81px;
+  width: 320px;
+}
+
+.bookshelf .waiting-wrapper {
+  align-items: center;
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 40px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 10px;
+  position: relative;
+}
+
+.bookshelf .text-wrapper-15 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.bookshelf .finish-wrapper {
+  align-items: center;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 40px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 10px;
+  position: relative;
+}
+
+.bookshelf .add-box {
+  display: block;
+  height: 24px;
+  left: 310px;
+  position: absolute;
+  top: 26px;
+  width: 24px;
+}

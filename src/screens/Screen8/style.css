@@ -1,0 +1,263 @@
+.screen-8 {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-8 .notification-4 {
+  height: 640px;
+  width: 360px;
+}
+
+.screen-8 .notification-5 {
+  background-color: #ffffff;
+  height: 640px;
+  position: relative;
+}
+
+.screen-8 .overlap-6 {
+  background-color: #f1f1f1;
+  height: 138px;
+  left: 0;
+  position: absolute;
+  top: 62px;
+  width: 360px;
+}
+
+.screen-8 .frame-58 {
+  align-items: flex-start;
+  display: flex;
+  gap: 13px;
+  left: 20px;
+  position: relative;
+  top: 10px;
+  width: 320px;
+}
+
+.screen-8 .rectangle-13 {
+  height: 114px;
+  object-fit: cover;
+  position: relative;
+  width: 86px;
+}
+
+.screen-8 .frame-59 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.screen-8 .frame-60 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.screen-8 .frame-61 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 7px;
+  position: relative;
+}
+
+.screen-8 .text-wrapper-50 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.screen-8 .text-wrapper-51 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-8 .text-wrapper-52 {
+  color: #7b7b7b;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.screen-8 .frame-62 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 12px;
+  position: relative;
+}
+
+.screen-8 .text-wrapper-53 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.screen-8 .arrow-back-ios-5 {
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.screen-8 .text-wrapper-54 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.screen-8 .frame-63 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 20px;
+  position: absolute;
+  top: 220px;
+}
+
+.screen-8 .frame-64 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 320px;
+}
+
+.screen-8 .group-21 {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.screen-8 .overlap-group-8 {
+  height: 40px;
+  position: relative;
+}
+
+.screen-8 .ellipse-7 {
+  background-color: #d9d9d9;
+  border-radius: 15px;
+  height: 30px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 30px;
+}
+
+.screen-8 .group-22 {
+  background-image: url(../../../static/img/account-circle-12.png);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.screen-8 .frame-65 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 6px;
+  justify-content: center;
+  position: relative;
+}
+
+.screen-8 .text-wrapper-55 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.screen-8 .text-wrapper-56 {
+  align-self: stretch;
+  color: #a1a1a1;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.screen-8 .frame-66 {
+  align-items: center;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 10px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 8px 10px;
+  position: relative;
+}
+
+.screen-8 .text-wrapper-57 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2px;
+  position: relative;
+  width: fit-content;
+}

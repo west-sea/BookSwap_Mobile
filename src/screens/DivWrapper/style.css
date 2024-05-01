@@ -1,0 +1,191 @@
+.div-wrapper {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.div-wrapper .notification-wrapper {
+  height: 640px;
+  width: 360px;
+}
+
+.div-wrapper .notification-3 {
+  background-color: #ffffff;
+  height: 640px;
+  position: relative;
+}
+
+.div-wrapper .arrow-back-ios-3 {
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.div-wrapper .text-wrapper-37 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 123px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.div-wrapper .frame-44 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 20px;
+  position: absolute;
+  top: 81px;
+}
+
+.div-wrapper .frame-45 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 320px;
+}
+
+.div-wrapper .group-15 {
+  height: 50px;
+  position: relative;
+  width: 55px;
+}
+
+.div-wrapper .overlap-4 {
+  height: 50px;
+  position: relative;
+}
+
+.div-wrapper .rectangle-10 {
+  height: 50px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.div-wrapper .group-16 {
+  height: 32px;
+  left: 23px;
+  position: absolute;
+  top: 9px;
+  width: 32px;
+}
+
+.div-wrapper .overlap-group-6 {
+  height: 32px;
+  position: relative;
+}
+
+.div-wrapper .ellipse-5 {
+  background-color: #d9d9d9;
+  border-radius: 12px;
+  height: 24px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+
+.div-wrapper .group-17 {
+  background-image: url(../../../static/img/account-circle-1.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.div-wrapper .frame-46 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 6px;
+  justify-content: center;
+  position: relative;
+}
+
+.div-wrapper .text-wrapper-38 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.div-wrapper .text-wrapper-39 {
+  align-self: stretch;
+  color: #a1a1a1;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.div-wrapper .frame-47 {
+  align-items: center;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 10px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 8px 10px;
+  position: relative;
+}
+
+.div-wrapper .text-wrapper-40 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2px;
+  position: relative;
+  width: fit-content;
+}
+
+.div-wrapper .group-18 {
+  background-image: url(../../../static/img/account-circle-15.png);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.div-wrapper .rectangle-11 {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #000000;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}

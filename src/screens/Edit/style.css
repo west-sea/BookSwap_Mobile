@@ -1,0 +1,369 @@
+.edit {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.edit .edit-wrapper {
+  height: 640px;
+  width: 360px;
+}
+
+.edit .div-7 {
+  background-color: #ffffff;
+  height: 640px;
+  position: relative;
+}
+
+.edit .arrow-back-ios-7 {
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.edit .text-wrapper-69 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 161px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.edit .text-wrapper-70 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 308px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.edit .overlap-group-10 {
+  height: 130px;
+  left: 121px;
+  position: absolute;
+  top: 72px;
+  width: 101px;
+}
+
+.edit .rectangle-15 {
+  height: 114px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.edit .photo-camera-wrapper-2 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 20px;
+  height: 32px;
+  left: 69px;
+  position: absolute;
+  top: 98px;
+  width: 32px;
+}
+
+.edit .photo-camera-2 {
+  height: 18px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.edit .frame-72 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  left: 40px;
+  position: absolute;
+  top: 222px;
+  width: 280px;
+}
+
+.edit .text-wrapper-71 {
+  color: #000000;
+  flex: 1;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.edit .frame-73 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+  border-radius: 4px;
+  display: flex;
+  gap: 12px;
+  height: 30px;
+  padding: 0px 12px;
+  position: relative;
+  width: 199px;
+}
+
+.edit .text-wrapper-72 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.edit .text-wrapper-73 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 69px;
+}
+
+.edit .frame-74 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  left: 40px;
+  position: absolute;
+  top: 264px;
+  width: 280px;
+}
+
+.edit .text-wrapper-74 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 313px;
+}
+
+.edit .text-wrapper-75 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 435px;
+}
+
+.edit .frame-75 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 6px;
+  left: 40px;
+  position: absolute;
+  top: 351px;
+  width: 280px;
+}
+
+.edit .frame-76 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 10px;
+  position: relative;
+}
+
+.edit .text-wrapper-76 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.edit .frame-77 {
+  align-items: center;
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 10px;
+  position: relative;
+}
+
+.edit .overlap-7 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 10px;
+  left: 41px;
+  position: absolute;
+  top: 468px;
+  width: 10px;
+}
+
+.edit .ellipse-12 {
+  background-color: #000000;
+  border-radius: 3px;
+  height: 6px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 6px;
+}
+
+.edit .ellipse-13 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 10px;
+  left: 41px;
+  position: absolute;
+  top: 495px;
+  width: 10px;
+}
+
+.edit .ellipse-14 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 10px;
+  left: 41px;
+  position: absolute;
+  top: 522px;
+  width: 10px;
+}
+
+.edit .text-wrapper-77 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 464px;
+}
+
+.edit .text-wrapper-78 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 491px;
+}
+
+.edit .text-wrapper-79 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 518px;
+}
+
+.edit .lock-2 {
+  height: 16px;
+  left: 111px;
+  position: absolute;
+  top: 492px;
+  width: 16px;
+}
+
+.edit .person-add-2 {
+  height: 16px;
+  left: 184px;
+  position: absolute;
+  top: 519px;
+  width: 16px;
+}
+
+.edit .frame-78 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 41px;
+  position: absolute;
+  top: 549px;
+}
+
+.edit .ellipse-15 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 10px;
+  position: relative;
+  width: 10px;
+}
+
+.edit .text-wrapper-80 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: fit-content;
+}
+
+.edit .person-cancel-2 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}

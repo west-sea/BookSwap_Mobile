@@ -1,0 +1,366 @@
+.upload-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.upload-screen .upload-2 {
+  background-color: #ffffff;
+  height: 640px;
+  position: relative;
+  width: 360px;
+}
+
+.upload-screen .arrow-back-ios-8 {
+  height: 24px;
+  left: 25px;
+  position: absolute;
+  top: 24px;
+  width: 24px;
+}
+
+.upload-screen .text-wrapper-81 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.upload-screen .overlap-group-11 {
+  height: 130px;
+  left: 121px;
+  position: absolute;
+  top: 72px;
+  width: 101px;
+}
+
+.upload-screen .rectangle-16 {
+  height: 114px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.upload-screen .edit-2 {
+  background-color: #d9d9d9;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 20px;
+  height: 32px;
+  left: 69px;
+  position: absolute;
+  top: 98px;
+  width: 32px;
+}
+
+.upload-screen .photo-camera-3 {
+  height: 18px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.upload-screen .frame-79 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  left: 40px;
+  position: absolute;
+  top: 222px;
+  width: 280px;
+}
+
+.upload-screen .text-wrapper-82 {
+  color: #000000;
+  flex: 1;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.upload-screen .frame-80 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #d9d9d9;
+  border-radius: 4px;
+  display: flex;
+  gap: 12px;
+  height: 30px;
+  padding: 0px 12px;
+  position: relative;
+  width: 199px;
+}
+
+.upload-screen .text-wrapper-83 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.upload-screen .text-wrapper-84 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 69px;
+}
+
+.upload-screen .frame-81 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  left: 40px;
+  position: absolute;
+  top: 264px;
+  width: 280px;
+}
+
+.upload-screen .text-wrapper-85 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 313px;
+}
+
+.upload-screen .text-wrapper-86 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 435px;
+}
+
+.upload-screen .frame-82 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 6px;
+  left: 40px;
+  position: absolute;
+  top: 351px;
+  width: 280px;
+}
+
+.upload-screen .frame-83 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 10px;
+  position: relative;
+}
+
+.upload-screen .text-wrapper-87 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.upload-screen .frame-84 {
+  align-items: center;
+  background-color: #dfdfdf;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 40px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 6px 10px;
+  position: relative;
+}
+
+.upload-screen .text-wrapper-88 {
+  color: #000000;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 308px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.upload-screen .overlap-8 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 10px;
+  left: 41px;
+  position: absolute;
+  top: 468px;
+  width: 10px;
+}
+
+.upload-screen .ellipse-16 {
+  background-color: #000000;
+  border-radius: 3px;
+  height: 6px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 6px;
+}
+
+.upload-screen .ellipse-17 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 10px;
+  left: 41px;
+  position: absolute;
+  top: 495px;
+  width: 10px;
+}
+
+.upload-screen .ellipse-18 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 10px;
+  left: 41px;
+  position: absolute;
+  top: 522px;
+  width: 10px;
+}
+
+.upload-screen .text-wrapper-89 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 464px;
+}
+
+.upload-screen .text-wrapper-90 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 491px;
+}
+
+.upload-screen .text-wrapper-91 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 518px;
+}
+
+.upload-screen .lock-3 {
+  height: 16px;
+  left: 111px;
+  position: absolute;
+  top: 492px;
+  width: 16px;
+}
+
+.upload-screen .person-add-3 {
+  height: 16px;
+  left: 184px;
+  position: absolute;
+  top: 519px;
+  width: 16px;
+}
+
+.upload-screen .frame-85 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 42px;
+  position: absolute;
+  top: 549px;
+}
+
+.upload-screen .ellipse-19 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  height: 10px;
+  position: relative;
+  width: 10px;
+}
+
+.upload-screen .text-wrapper-92 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+  position: relative;
+  width: fit-content;
+}
+
+.upload-screen .person-cancel-3 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
